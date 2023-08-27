@@ -1,0 +1,15 @@
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\bin\Debug\net7.0\Husi1.exe
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\bin\Debug\net7.0\Husi1.deps.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\bin\Debug\net7.0\Husi1.runtimeconfig.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\bin\Debug\net7.0\Husi1.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\bin\Debug\net7.0\Husi1.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.csproj.AssemblyReference.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.AssemblyInfoInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.AssemblyInfo.cs
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.csproj.CoreCompileInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\refint\Husi1.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\Husi1.genruntimeconfig.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul293Ver\Husi1\obj\Debug\net7.0\ref\Husi1.dll
