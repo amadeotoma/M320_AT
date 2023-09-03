@@ -1,0 +1,15 @@
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Calculator\obj\Debug\net7.0\ref\Calculator.dll
