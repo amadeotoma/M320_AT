@@ -1,0 +1,15 @@
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.exe
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.deps.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.runtimeconfig.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\bin\Debug\net7.0\Fussballmannschaft.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.csproj.AssemblyReference.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.AssemblyInfoInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.AssemblyInfo.cs
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.csproj.CoreCompileInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\refint\Fussballmannschaft.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\Fussballmannschaft.genruntimeconfig.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Fussballmannschaft\obj\Debug\net7.0\ref\Fussballmannschaft.dll
