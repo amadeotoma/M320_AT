@@ -1,0 +1,5 @@
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Wasserfass_Teil1\obj\Debug\net7.0\Wasserfass_Teil1.csproj.AssemblyReference.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Wasserfass_Teil1\obj\Debug\net7.0\Wasserfass_Teil1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Wasserfass_Teil1\obj\Debug\net7.0\Wasserfass_Teil1.AssemblyInfoInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Wasserfass_Teil1\obj\Debug\net7.0\Wasserfass_Teil1.AssemblyInfo.cs
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Wasserfass_Teil1\obj\Debug\net7.0\Wasserfass_Teil1.csproj.CoreCompileInputs.cache
