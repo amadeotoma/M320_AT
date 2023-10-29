@@ -1,0 +1,15 @@
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\bin\Debug\net7.0\Geometrische_Figuren.exe
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\bin\Debug\net7.0\Geometrische_Figuren.deps.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\bin\Debug\net7.0\Geometrische_Figuren.runtimeconfig.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\bin\Debug\net7.0\Geometrische_Figuren.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\bin\Debug\net7.0\Geometrische_Figuren.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.csproj.AssemblyReference.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.AssemblyInfoInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.AssemblyInfo.cs
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.csproj.CoreCompileInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\refint\Geometrische_Figuren.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\Geometrische_Figuren.genruntimeconfig.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Geometrische_Figuren\obj\Debug\net7.0\ref\Geometrische_Figuren.dll
