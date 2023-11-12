@@ -1,0 +1,15 @@
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\bin\Debug\net7.0\Browsersimulator.exe
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\bin\Debug\net7.0\Browsersimulator.deps.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\bin\Debug\net7.0\Browsersimulator.runtimeconfig.json
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\bin\Debug\net7.0\Browsersimulator.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\bin\Debug\net7.0\Browsersimulator.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.csproj.AssemblyReference.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.AssemblyInfoInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.AssemblyInfo.cs
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.csproj.CoreCompileInputs.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\refint\Browsersimulator.dll
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.pdb
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\Browsersimulator.genruntimeconfig.cache
+C:\Users\ama08\OneDrive - Kt. SG BLD\Module\Jahr2\Modul320\Browsersimulator\obj\Debug\net7.0\ref\Browsersimulator.dll
